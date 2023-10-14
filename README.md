@@ -24,7 +24,11 @@ OS - Windows 10/11, 32 or 64bit.
 
 Create a empty file with name "settings.ini" in main folder, and run the game.
 
-Ex: OpenShutdownTimer.exe settings.ini
+Ex: 
+
+OpenShutdownTimer\OpenShutdownTimer.exe
+
+OpenShutdownTimer\settings.ini
 
 
 
