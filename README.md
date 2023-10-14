@@ -25,3 +25,16 @@ OS - Windows 10/11, 32 or 64bit.
 Create a empty file with name "settings.ini" in main folder, and run the game.
 
 Ex: OpenShutdownTimer.exe settings.ini
+
+
+
+# Run with parameters
+
+- Enabled timer '--enable' or '-e'.
+- Force procceses that don't respond '--force' or '-f'.
+- Ignore wakeup '--ignore_wakeup' or '-w'.
+- Poweroff '--POWEROFF' or '-p'.
+- Shutdown '--SHUTDOWN' or '-s'.
+- Reboot '--REBOOT' or '-r'.
+- Logoff '--LOGOFF' or '-l'.
+- Standby '--STANDBY' or '-b'.
