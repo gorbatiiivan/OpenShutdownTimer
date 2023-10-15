@@ -3,6 +3,7 @@ Welcome to the OpenShutdownTimer project homepage located on GitHub.
 # Introduction to OpenShutdownTimer
 
 OpenShutdownTimer is a simple shutdown timer for Windows 10/11, 32 or 64bit.
+
 FEATURES:
 - Timer for shutdown, reboot, logoff or standby.
 - Set a specific time or count down time.
