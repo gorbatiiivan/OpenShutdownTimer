@@ -23,7 +23,7 @@ OS - Windows 10/11, 32 or 64bit.
 
 # Portable mode
 
-Create a empty file with name "settings.ini" in main folder, and run the game.
+Create a empty file with name "settings.ini" in main folder, and run the app.
 
 Ex: 
 
